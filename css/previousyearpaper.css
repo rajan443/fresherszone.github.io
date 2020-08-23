@@ -1,0 +1,120 @@
+@import url('https//fonts.googleapis.com/css?family=Raleway');
+@import url('https//fonts.googleapis.com/css?family=Oswald');
+@import url('https//fonts.googleapis.com/css?family=Varela Round');
+
+
+
+.button {
+    background-color: #ee4242;
+    border: none;
+    color: WHITE;
+    padding: 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    height: 70px;
+    width: 170px;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
+    margin-top: 300px;
+}
+
+
+.button1 {border-radius: 50px;}
+.button2 {border-radius: 50px;}
+.button3 {border-radius: 50px;}
+.button4 {border-radius: 50px;}
+
+.button1:hover {
+    box-shadow: 0 40px 40px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+.intro{
+  height: 100%;
+  width: 100%;
+  margin:auto;
+  background: url(macy.jpg) no-repeat 50% 50%;
+  display: table;
+  top: 0;
+  background-size: cover;
+}
+html, body{
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  width: 100%;
+  font-size: 16px;
+}
+
+h4{
+  font-family: 'Raleway', sans-serif;
+  color: #590000;
+  text-shadow: 0px 0px 300px #000;
+  font-size: 190%;
+  margin-left: 15px;
+}
+
+h3{
+  font-family: 'Raleway', sans-serif;
+  color: #590000;
+  text-shadow: 0px 0px 300px #000;
+  font-size: 130%;
+  margin-left: 15px;
+  text-align:center;
+}
+
+#hrc{
+  width: 650px;
+  height: 2px;
+  background-color: #590000;
+}
+
+#syll a{
+  text-decoration: none;
+  color: black;
+}
+
+#syll a:hover{
+  text-decoration: none;
+  color: tomato;
+}
+
+#mod_1{
+  border:2px solid black;
+  border-radius: 10px;
+  border: 2px solid black;
+}
+
+#mod_1:hover{
+  box-shadow: 0 20px 25px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+#download{
+
+}
+.fig1 a
+{
+    text-decoration: none;
+    color: red;
+}
+
+
+#note-display{
+height: 210px;
+width: 100%;
+background-color: white;
+}
+
+#notes-text{
+color: brown;
+text-decoration: none;
+font-size: 18px;
+font-family: 'Oswald',sans-serif;
+}
+
+#notes-text:hover{
+  color: tomato;
+}
+.mb-1 {
+    margin-bottom: 0.375rem;
+  }
